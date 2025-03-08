@@ -8,12 +8,12 @@ import Footer from "./components/Footer";
 import CartMobile from "./components/CartMobile";
 import GlobalProvider from "./Provider/GlobalProvider";
 import fetchUserDetails from "./utils/FetchUserDetails";
-import { setUserDetails } from "./store/UserSlice";
+import { setUserDetails } from "./Store/UserSlice";
 import {
   setAllCategory,
   setAllSubCategory,
   setLoadingCategory,
-} from "./store/ProductSlice";
+} from "./Store/ProductSlice";
 import AxiosReq from "./utils/Axios";
 import SummaryApi from "./common/summaryApi";
 

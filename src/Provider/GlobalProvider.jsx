@@ -2,11 +2,11 @@ import { createContext, useContext, useEffect, useState } from "react";
 import AxiosReq from "../utils/Axios";
 import SummaryApi from "../common/summaryApi";
 import { useDispatch, useSelector } from "react-redux";
-import { handleAddItemCart } from "../store/CartProduct";
+import { handleAddItemCart } from "../Store/CartProduct";
 import AxiosToastError from "../utils/AxiosToastError";
 import toast from "react-hot-toast";
 import { priceWithDiscount } from "../utils/PriceWithDiscount";
-import { handleAddAddress } from "../store/AddressSlice";
+import { handleAddAddress } from "../Store/AddressSlice";
 
 export const GlobalContext = createContext(null);
 

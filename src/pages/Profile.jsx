@@ -7,7 +7,7 @@ import AxiosReq from "../utils/Axios";
 import AxiosToastError from "../utils/AxiosToastError";
 import toast from "react-hot-toast";
 import fetchUserDetails from "../utils/FetchUserDetails";
-import { setUserDetails } from "../store/UserSlice";
+import { setUserDetails } from "../Store/UserSlice";
 const Profile = () => {
   const user = useSelector((state) => state.user);
   const [openProfileAvatarEdit, setOpenProfileAvatarEdit] = useState(false);

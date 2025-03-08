@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import AxiosReq from "../utils/Axios";
 import SummaryApi from "../common/summaryApi";
 import AxiosToastError from "../utils/AxiosToastError";
-import { updatedAvatar } from "../store/UserSlice";
+import { updatedAvatar } from "../Store/UserSlice";
 import { IoCloseCircle } from "react-icons/io5";
 const UserProfileAvatarEdit = ({close}) => {
   const user = useSelector((state) => state.user);
