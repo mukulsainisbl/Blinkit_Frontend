@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import CartMobile from "./components/CartMobile";
 import GlobalProvider from "./Provider/GlobalProvider";
 import fetchUserDetails from "./utils/FetchUserDetails";
-import { setUserDetails } from "./Store/UserSlice";
+import { setUserDetails } from "./store/UserSlice";
 import {
   setAllCategory,
   setAllSubCategory,
