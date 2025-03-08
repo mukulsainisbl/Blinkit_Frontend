@@ -8,7 +8,7 @@ import AxiosToastError from "../utils/AxiosToastError";
 import { Link, useNavigate } from "react-router-dom";
 import fetchUserDetails from "../utils/FetchUserDetails";
 import { useDispatch } from "react-redux";
-import { setUserDetails } from "../Store/UserSlice";
+import { setUserDetails } from "../NewStore/UserSlice";
 
 const Login = () => {
   const [data, setData] = useState({

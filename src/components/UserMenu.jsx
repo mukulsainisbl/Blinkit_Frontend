@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import Divider from "./Divider";
 import AxiosReq from "../utils/Axios";
 import SummaryApi from "../common/summaryApi";
-import { logout } from "../Store/UserSlice";
+import { logout } from "../NewStore/UserSlice";
 import toast from "react-hot-toast";
 import AxiosToastError from "../utils/AxiosToastError";
 import { FiExternalLink } from "react-icons/fi";

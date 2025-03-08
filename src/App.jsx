@@ -13,10 +13,10 @@ import {
   setAllCategory,
   setAllSubCategory,
   setLoadingCategory,
-} from "./Store/ProductSlice";
+} from "./NewStore/ProductSlice";
 import AxiosReq from "./utils/Axios";
 import SummaryApi from "./common/summaryApi";
-import { setUserDetails } from "./Store/UserSlice";
+import { setUserDetails } from  "./NewStore/UserSlice";
 
 function App() {
   const dispatch = useDispatch();
