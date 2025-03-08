@@ -3,7 +3,7 @@ import AxiosToastError from "../utils/AxiosToastError";
 import AxiosReq from "../utils/Axios";
 import SummaryApi from "../common/summaryApi";
 import Loading from "../components/Loading";
-import ProductcardAdmin from "../components/ProductcardAdmin";
+import ProductcardAdmin from "../components/ProductCardAdmin";
 import { CiSearch } from "react-icons/ci";
 const ProductsAdmin = () => {
   const [productData, setProductData] = useState([]);
