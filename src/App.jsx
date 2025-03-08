@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import CartMobile from "./components/CartMobile";
 import GlobalProvider from "./Provider/GlobalProvider";
 import fetchUserDetails from "./utils/FetchUserDetails";
-import { setUserDetails } from "./Store/UserSlice";
+// import { setUserDetails } from "./Store/UserSlice";
 import {
   setAllCategory,
   setAllSubCategory,
@@ -16,11 +16,11 @@ import {
 } from "./Store/ProductSlice";
 import AxiosReq from "./utils/Axios";
 import SummaryApi from "./common/summaryApi";
+import { setUserDetails } from "./Store/UserSlice";
 
 function App() {
   const dispatch = useDispatch();
   const location = useLocation();
-
   const fetchUser = useCallback(async () => {
     try {
       const userData = await fetchUserDetails();
