@@ -20,9 +20,9 @@ This is a **Blinkit Clone** frontend project, designed to replicate the user exp
 ✅ **Authentication** - User login and signup (if implemented).  
 
 ## 📸 Screenshots
-ScreenShot1(https://drive.google.com/uc?export=download&id=1ueKH-R376kiuVxXJ4LyUDpZZ4KSSHOXc)
-ScreenShot2(https://drive.google.com/uc?export=download&id=1KyifWjV6zuFVIlMxJFgtuc5G17WPxKNR)
-ScreenShot3(https://drive.google.com/uc?export=download&id=1_K33Vxyc9DCUfUigCeEL374H7g8VYZlo)
+![ScreenShot1](https://drive.google.com/uc?export=download&id=1ueKH-R376kiuVxXJ4LyUDpZZ4KSSHOXc)  
+![ScreenShot2](https://drive.google.com/uc?export=download&id=1KyifWjV6zuFVIlMxJFgtuc5G17WPxKNR)  
+![ScreenShot3](https://drive.google.com/uc?export=download&id=1_K33Vxyc9DCUfUigCeEL374H7g8VYZlo)  
 
 ## 🔧 Installation & Setup
 1. Clone the repository:
