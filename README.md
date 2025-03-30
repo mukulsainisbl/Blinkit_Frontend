@@ -20,7 +20,9 @@ This is a **Blinkit Clone** frontend project, designed to replicate the user exp
 ✅ **Authentication** - User login and signup (if implemented).  
 
 ## 📸 Screenshots
-(Add relevant screenshots of your app UI here)
+ScreenShot1(https://drive.google.com/uc?export=download&id=1ueKH-R376kiuVxXJ4LyUDpZZ4KSSHOXc)
+ScreenShot2(https://drive.google.com/uc?export=download&id=1KyifWjV6zuFVIlMxJFgtuc5G17WPxKNR)
+ScreenShot3(https://drive.google.com/uc?export=download&id=1_K33Vxyc9DCUfUigCeEL374H7g8VYZlo)
 
 ## 🔧 Installation & Setup
 1. Clone the repository:
@@ -39,7 +41,7 @@ This is a **Blinkit Clone** frontend project, designed to replicate the user exp
 4. Open **http://localhost:3000/** in your browser.
 
 ## 🌐 Live Demo
-🔗 [Live Demo](https://blinkit-frontend-one.vercel.app/) (Update with your deployed link)
+🔗 [Live Demo](https://blinkit-frontend-one.vercel.app/)
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
