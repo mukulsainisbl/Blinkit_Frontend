@@ -1,6 +1,7 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa6";
 
 const Footer = () => {
+
   return (
     <footer className="border-t">
       <div className="container mx-auto px-6 pt-5 py-2 bg-white text-center flex flex-col lg:flex-row lg:justify-between gap-2 ">
@@ -18,7 +19,7 @@ const Footer = () => {
 
           {/* Resume Button (Local File) */}
           <a
-            href=  "public/Mukulsaini.pdf" // Local path
+            href=  "/Mukulsaini.pdf" // Local path
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 border-2 border-blue-600 text-blue-600 rounded-lg hover:bg-blue-600 hover:text-white transition duration-300"
